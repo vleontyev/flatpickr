@@ -62,6 +62,8 @@ export const Russian: CustomLocale = {
   toggleTitle: "Нажмите для переключения",
   amPM: ["ДП", "ПП"],
   yearAriaLabel: "Год",
+  hourAriaLabel: "Часы",
+  minuteAriaLabel: "Минуты",
   time_24hr: true,
 };
 
